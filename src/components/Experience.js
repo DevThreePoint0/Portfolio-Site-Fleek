@@ -5,23 +5,24 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Clayton State University</i>, 2014-2018
+                    <i>Javascript Language</i> - <strong>Currently Learning Javascript</strong>, 2023-CURRENT
                     <ul>
-                        <li>Graduated with 3.00 GPA</li>
+                        <li>Currently learning Javascript language</li>
+                        <li>Taking courses from Udemy, learning and working real world use cases in on all of my projects created</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i>Solidity Language</i> - <strong> Completed Solidity Courses</strong>, 2022-2023
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Studied Solidity language</li>
+                        <li>Courses studied from Udemy, real world use of Solidity used in building my other projects</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i>Dapp University</i> - <strong> Completed Blockchain Bootcamp</strong>,  2022-2023
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Completed the Blockchain Developer Bootcamp</li>
+                        <li>Currently enrolled in masterclasses that range from teaching smart contract development and deployment to building a NFT project and launching it live</li>
                     </ul>
                 </li>
             </ul>
