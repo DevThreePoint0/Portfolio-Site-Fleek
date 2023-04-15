@@ -36,10 +36,10 @@ const Projects = () => {
                 <div className="projects__card">
                     <h3>Non-Fungible Token Project</h3>
                     <img src={nft} alt="Compound Landing Page" />
-                    <p>A NFT digital asset project that involves the creation and trading of non-fungible tokens (NFTs) on a blockchain network. NFTs are unique and indivisible digital tokens that are created on a blockchain, which means that they cannot be replicated or duplicated. ETA 4/17/23
+                    <p>A NFT digital asset project that involves the creation and trading of non-fungible tokens (NFTs) on a blockchain network. NFTs are unique and indivisible digital tokens that are created on a blockchain, which means that they cannot be replicated or duplicated.
                     </p>
 
-                    <a href="https://st4.depositphotos.com/1006832/20098/i/450/depositphotos_200986760-stock-photo-coming-soon-red-text-white.jpg" target="_blank" className="button">Site</a>
+                    <a href="https://quiet-snow-3337.on.fleek.co" target="_blank" className="button">Site</a>
                     <a href="https://github.com/DevThreePoint0/Non-Fungible-Token-Project" target="_blank" className="button">Code</a>
                 </div>
 
