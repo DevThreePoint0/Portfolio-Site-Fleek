@@ -5,6 +5,20 @@ const Experience = () => {
 
             <ul>
                 <li>
+                    <i>CSS Language</i> - <strong>Currently Learning CSS</strong>, 2023-CURRENT
+                    <ul>
+                        <li>Currently learning Javascript language</li>
+                        <li>Taking courses from Udemy, learning and working real world use cases in on all of my projects created</li>
+                    </ul>
+                </li>
+                <li>
+                    <i>HTML Language</i> - <strong>Currently Learning HTML</strong>, 2023-CURRENT
+                    <ul>
+                        <li>Currently learning Javascript language</li>
+                        <li>Taking courses from Udemy, learning and working real world use cases in on all of my projects created</li>
+                    </ul>
+                </li>
+                <li>
                     <i>Javascript Language</i> - <strong>Currently Learning Javascript</strong>, 2023-CURRENT
                     <ul>
                         <li>Currently learning Javascript language</li>
